@@ -1,3 +1,5 @@
+#该项目用于语音识别的demo
+
 # speech-demo
 项目地址：https://github.com/Baidu-AIP/speech-demo
 
